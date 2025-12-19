@@ -1,0 +1,2 @@
+# krdict
+Korean Dictionary
